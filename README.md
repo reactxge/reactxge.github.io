@@ -1,1 +1,2 @@
-# webspaceui.github.io
+# amindi
+ამინდის აპი
